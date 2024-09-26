@@ -1,2 +1,2 @@
 # study
-これはREADMEです。
+これは`README.md`です。
